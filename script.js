@@ -7,7 +7,7 @@ const CONFIG = {
   // Project URL and public "anon" key below. See supabase_setup.sql
   // for the table this expects.
   supabaseUrl: "https://nqvjlwxbneyhonbxpfjj.supabase.co",
-  supabaseAnonKey: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5xdmpsd3hibmV5aG9uYnhwZmpqIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODMyNjgzMDksImV4cCI6MjA5ODg0NDMwOX0.8bE7q91U0bncBp24XRJy4W0oV--7FMc-XGTq1DZ4tA0",
+  supabaseAnonKey: "ab0fd6bd-f8f1-4d17-a595-4102c94394b8",
   supabaseTable: "InvitationResponses",
 
   // --- Content ---
