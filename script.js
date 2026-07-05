@@ -6,14 +6,14 @@ const CONFIG = {
   // Create a project at https://supabase.com, then paste your
   // Project URL and public "anon" key below. See supabase_setup.sql
   // for the table this expects.
-  supabaseUrl: "https://YOUR-PROJECT.supabase.co",
-  supabaseAnonKey: "YOUR_PUBLIC_ANON_KEY",
+  supabaseUrl: "https://nqvjlwxbneyhonbxpfjj.supabase.co",
+  supabaseAnonKey: "sb_publishable_AxWxh7HGlLntbSEU1AYnZA_2raUKPKA",
   supabaseTable: "InvitationResponses",
 
   // --- Content ---
   movieTitle: "Evil Dead Burn",
   movieDescription: "A night in the dark, if you dare.",
-  movieTrailerUrl: "", // paste a trailer URL to show the "Watch trailer" button
+  movieTrailerUrl: "https://youtu.be/TnHby2cxJzs?si=vGA5V2H1I7sIa75m", // paste a trailer URL to show the "Watch trailer" button
 
   restaurantName: "REPLACE_WITH_RESTAURANT_NAME",
   restaurantAddress: "REPLACE_WITH_ADDRESS",
