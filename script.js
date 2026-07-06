@@ -13,7 +13,7 @@ const CONFIG = {
   // --- Content ---
   movieTitle: "Evil Dead Burn",
   movieDescription: "A night in the dark, if you dare.",
-  movieTrailerUrl: "", // paste a trailer URL to show the "Watch trailer" button
+  movieTrailerUrl: "https://youtu.be/TnHby2cxJzs?si=sqZ62R-jk5rM4saF", // paste a trailer URL to show the "Watch trailer" button
 
   restaurantName: "REPLACE_WITH_RESTAURANT_NAME",
   restaurantAddress: "REPLACE_WITH_ADDRESS",
