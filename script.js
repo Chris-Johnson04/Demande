@@ -23,7 +23,7 @@ const CONFIG = {
 
   // --- Ambient audio (optional) ---
   // Paste a hosted mp3 URL to enable the soft piano toggle. Leave empty to disable.
-  ambientAudioUrl: ""
+  ambientAudioUrl: "ambient.mp3"
 };
 
 /* =========================================================
