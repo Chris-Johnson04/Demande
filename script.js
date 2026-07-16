@@ -15,8 +15,8 @@ const CONFIG = {
   movieDescription: "A night in the dark, if you dare.",
   movieTrailerUrl: "https://youtu.be/TnHby2cxJzs?si=rBhnteetCyPWlThn", // paste a trailer URL to show the "Watch trailer" button
 
-  restaurantName: "REPLACE_WITH_RESTAURANT_NAME",
-  restaurantAddress: "REPLACE_WITH_ADDRESS",
+  restaurantName: "Novakan",
+  restaurantAddress: "11th Floor, No.23/2, Coffee Day Square, Vittal Mallya Road, KG Halli, D' Souza Layout, Ashok Nagar, Lavelle Road, Bangalore",
   restaurantNote: "", // e.g. "Table booked for two, 8:30pm"
 
   finalMessage: "I can't wait to spend this moment with you.",
