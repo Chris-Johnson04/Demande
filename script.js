@@ -16,7 +16,7 @@ const CONFIG = {
   movieTrailerUrl: "https://youtu.be/TnHby2cxJzs?si=rBhnteetCyPWlThn", // paste a trailer URL to show the "Watch trailer" button
 
   restaurantName: "Novakan",
-  restaurantAddress: "11th Floor, No.23/2, Coffee Day Square, Vittal Mallya Road, KG Halli, D' Souza Layout, Ashok Nagar, Lavelle Road, Bangalore",
+  restaurantAddress: "11th Floor, No.23/2, Coffee Day Square, Vittal Mallya Road, KG Halli, D Souza Layout, Ashok Nagar, Lavelle Road, Bangalore",
   restaurantNote: "", // e.g. "Table booked for two, 8:30pm"
 
   finalMessage: "I can't wait to spend this moment with you.",
